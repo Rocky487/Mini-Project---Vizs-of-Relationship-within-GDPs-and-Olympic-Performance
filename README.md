@@ -1,4 +1,4 @@
-# Mini-Project---Vizs-of-Relationship-within-GDPs-and-Olympic-Performance
+# Vizs of Relationship within GDPs and Olympic Performance
 This is my first visualization project aiming to find out whether and how a country’s performance in Olympic Games is related to its GDP, with the use of Tableau. After building different sorts of charts and performing analysis on them, it is found that both the GDP and GDP growths of a country do not quite correlate with its Olympic performance, except for USA and China, which are the outliers in GDPs and own the most models in Olympic. The charts are concluded in the dashboard shown below:
 
 https://public.tableau.com/app/profile/ming.chung.fong/viz/RelationshipwithinGDPsandOlympicPerformance/Dashboard20
